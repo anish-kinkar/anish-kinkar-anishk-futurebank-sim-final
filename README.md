@@ -1,5 +1,3 @@
----
-
 # 🔮 FutureBank Sim – AI-Powered Personal Wealth Predictor
 
 ### *Visualize your financial future with Monte Carlo simulations + AI advice*
